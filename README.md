@@ -1,2 +1,2 @@
 # cookbook
-Quick and dirty recipes
+Quick and dirty recipes.
